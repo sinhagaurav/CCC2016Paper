@@ -1,0 +1,62 @@
+\select@language {USenglish}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Previous Work and Connections}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Depth 3 Arithmetic Circuits}{4}{subsection.1.2}
+\contentsline {paragraph}{\numberline {1.2.0.1}Remark}{4}{paragraph.1.2.0.1}
+\contentsline {subsection}{\numberline {1.3}Uniqueness of Representation}{5}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Notation}{5}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Summary of Technical Ideas}{7}{subsection.1.5}
+\contentsline {subsubsection}{\numberline {1.5.1}A Simple Reconstruction Technique}{7}{subsubsection.1.5.1}
+\contentsline {subsubsection}{\numberline {1.5.2}General Overview of the Algorithm}{9}{subsubsection.1.5.2}
+\contentsline {paragraph}{\numberline {1.5.2.1}Project-Reconstruct-Lift Algorithm :}{10}{paragraph.1.5.2.1}
+\contentsline {paragraph}{\numberline {1.5.2.2}Project}{10}{paragraph.1.5.2.2}
+\contentsline {paragraph}{\numberline {1.5.2.3}Reconstruct}{10}{paragraph.1.5.2.3}
+\contentsline {paragraph}{\numberline {1.5.2.4}Lift}{10}{paragraph.1.5.2.4}
+\contentsline {section}{\numberline {2}An Illustrative Example}{11}{section.2}
+\contentsline {subsection}{\numberline {2.1}Candidate Linear Forms}{11}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Reconstruction Algorithm}{12}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Easy Case}{12}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Hard Case}{13}{subsubsection.2.2.2}
+\contentsline {paragraph}{\numberline {2.2.2.1}Return Type}{14}{paragraph.2.2.2.1}
+\contentsline {section}{\numberline {3}Reconstruction for low rank }{16}{section.3}
+\contentsline {paragraph}{\numberline {3.0.0.1}Random Transformation and Assumptions}{16}{paragraph.3.0.0.1}
+\contentsline {paragraph}{\numberline {3.0.0.2}Known and Unknown Parts}{18}{paragraph.3.0.0.2}
+\contentsline {subsection}{\numberline {3.1}Outline of the algorithm}{18}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Easy Case}{19}{subsection.3.2}
+\contentsline {paragraph}{\numberline {3.2.0.1}Explanation and Correctness Analysis}{20}{paragraph.3.2.0.1}
+\contentsline {paragraph}{\numberline {3.2.0.2}Time Complexity - }{21}{paragraph.3.2.0.2}
+\contentsline {subsection}{\numberline {3.3}Medium Case}{21}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Detector Pair, Reducing Factors, Hard Case Preparation}{22}{subsection.3.4}
+\contentsline {paragraph}{\numberline {3.4.0.1}Detector Pairs $(S,D)$ }{22}{paragraph.3.4.0.1}
+\contentsline {subsubsection}{\numberline {3.4.1}Identifying Some Factors Which Don't Divide $g$}{22}{subsubsection.3.4.1}
+\contentsline {paragraph}{\numberline {3.4.1.1}Time Complexity - }{23}{paragraph.3.4.1.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Overestimating the set $D$ of the detector pair $(S,D)$}{24}{subsubsection.3.4.2}
+\contentsline {paragraph}{\numberline {3.4.2.1}Time Complexity - }{25}{paragraph.3.4.2.1}
+\contentsline {subsection}{\numberline {3.5}Hard Case }{25}{subsection.3.5}
+\contentsline {paragraph}{\numberline {3.5.0.1}}{25}{paragraph.3.5.0.1}
+\contentsline {subsubsection}{\numberline {3.5.1}Large Size of Detector Sets}{25}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Assuming $\mathcal {L}(T_i)\subseteq sp(\mathcal {L}(U_{1-i}))$ and reconstructing factors of $U_{1-i}$}{26}{subsubsection.3.5.2}
+\contentsline {paragraph}{\numberline {3.5.2.1}}{26}{paragraph.3.5.2.1}
+\contentsline {paragraph}{\numberline {3.5.2.2}\bf Correctness }{30}{paragraph.3.5.2.2}
+\contentsline {paragraph}{\numberline {3.5.2.3}Running Time}{31}{paragraph.3.5.2.3}
+\contentsline {subsection}{\numberline {3.6}Algorithm including all cases : }{31}{subsection.3.6}
+\contentsline {paragraph}{\numberline {3.6.0.1}Explanation : }{32}{paragraph.3.6.0.1}
+\contentsline {section}{\numberline {4}Reconstruction for arbitrary $rank$}{32}{section.4}
+\contentsline {subsection}{\numberline {4.1}Projection to a Random Low Dimensional Subspace}{32}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Lifting from the Random Low Dimensional Subspace}{33}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Time Complexity}{33}{subsection.4.3}
+\contentsline {section}{\numberline {5}Conclusion and Future Work}{33}{section.5}
+\contentsline {section}{\numberline {6}Acknowledgements}{34}{section.6}
+\contentsline {section}{\numberline {A}Characterizing $\Pi \Sigma $ polynomials (Brill's Equations)}{35}{appendix.A}
+\contentsline {section}{\numberline {B}Tools from Incidence Geometry}{36}{appendix.B}
+\contentsline {section}{\numberline {C}A Method of Reconstructing Linear Forms}{38}{appendix.C}
+\contentsline {subsection}{\numberline {C.1}Explanation}{40}{subsection.C.1}
+\contentsline {subsection}{\numberline {C.2}Correctness}{41}{subsection.C.2}
+\contentsline {subsection}{\numberline {C.3}Time Complexity}{42}{subsection.C.3}
+\contentsline {section}{\numberline {D}Random Linear Transformations}{42}{appendix.D}
+\contentsline {section}{\numberline {E}Set $\mathcal {C}$ of Candidate Linear Forms}{44}{appendix.E}
+\contentsline {subsection}{\numberline {E.1}Structure and Size of $\mathcal {C}$}{44}{subsection.E.1}
+\contentsline {subsection}{\numberline {E.2}Constructing the set $\mathcal {C}$}{46}{subsection.E.2}
+\contentsline {section}{\numberline {F}Proofs from Subsection \ref {reducefactors}}{47}{appendix.F}
+\contentsline {section}{\numberline {G}Proofs from Subsection \ref {hardcase}}{50}{appendix.G}
+\contentsline {section}{\numberline {H}Proofs from Section \ref {highdimrecon}}{53}{appendix.H}

@@ -1,0 +1,43 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Previous Work and Connections}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Depth 3 Arithmetic Circuits}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Uniqueness of Representation}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Notation}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Summary of Technical Ideas}{section.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.5.1}{A Simple Reconstruction Technique}{subsection.1.5}% 7
+\BOOKMARK [3][-]{subsubsection.1.5.2}{General Overview of the Algorithm}{subsection.1.5}% 8
+\BOOKMARK [1][-]{section.2}{An Illustrative Example}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{Candidate Linear Forms}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.2}{Reconstruction Algorithm}{section.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Easy Case}{subsection.2.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Hard Case}{subsection.2.2}% 13
+\BOOKMARK [1][-]{section.3}{Reconstruction for low rank }{}% 14
+\BOOKMARK [2][-]{subsection.3.1}{Outline of the algorithm}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.2}{Easy Case}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.3}{Medium Case}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.4}{Detector Pair, Reducing Factors, Hard Case Preparation}{section.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Identifying Some Factors Which Don't Divide g}{subsection.3.4}% 19
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Overestimating the set D of the detector pair \(S,D\)}{subsection.3.4}% 20
+\BOOKMARK [2][-]{subsection.3.5}{Hard Case }{section.3}% 21
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Large Size of Detector Sets}{subsection.3.5}% 22
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Assuming L\(Ti\)sp\(L\(U1-i\)\) and reconstructing factors of U1-i}{subsection.3.5}% 23
+\BOOKMARK [2][-]{subsection.3.6}{Algorithm including all cases : }{section.3}% 24
+\BOOKMARK [1][-]{section.4}{Reconstruction for arbitrary rank}{}% 25
+\BOOKMARK [2][-]{subsection.4.1}{Projection to a Random Low Dimensional Subspace}{section.4}% 26
+\BOOKMARK [2][-]{subsection.4.2}{Lifting from the Random Low Dimensional Subspace}{section.4}% 27
+\BOOKMARK [2][-]{subsection.4.3}{Time Complexity}{section.4}% 28
+\BOOKMARK [1][-]{section.5}{Conclusion and Future Work}{}% 29
+\BOOKMARK [1][-]{section.6}{Acknowledgements}{}% 30
+\BOOKMARK [1][-]{appendix.A}{Characterizing \040polynomials \(Brill's Equations\)}{}% 31
+\BOOKMARK [1][-]{appendix.B}{Tools from Incidence Geometry}{}% 32
+\BOOKMARK [1][-]{appendix.C}{A Method of Reconstructing Linear Forms}{}% 33
+\BOOKMARK [2][-]{subsection.C.1}{Explanation}{appendix.C}% 34
+\BOOKMARK [2][-]{subsection.C.2}{Correctness}{appendix.C}% 35
+\BOOKMARK [2][-]{subsection.C.3}{Time Complexity}{appendix.C}% 36
+\BOOKMARK [1][-]{appendix.D}{Random Linear Transformations}{}% 37
+\BOOKMARK [1][-]{appendix.E}{Set C of Candidate Linear Forms}{}% 38
+\BOOKMARK [2][-]{subsection.E.1}{Structure and Size of C}{appendix.E}% 39
+\BOOKMARK [2][-]{subsection.E.2}{Constructing the set C}{appendix.E}% 40
+\BOOKMARK [1][-]{appendix.F}{Proofs from Subsection ??}{}% 41
+\BOOKMARK [1][-]{appendix.G}{Proofs from Subsection ??}{}% 42
+\BOOKMARK [1][-]{appendix.H}{Proofs from Section ??}{}% 43
